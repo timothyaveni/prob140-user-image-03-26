@@ -11,4 +11,4 @@ dependencies:
 # pip packages, conda preferred check https://anaconda.org/search first!
   - pip:
       - prob140==0.4.1.6
-      - jupytutor==0.3.1
+      - jupytutor==0.4.0
